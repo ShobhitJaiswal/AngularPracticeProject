@@ -1,0 +1,19 @@
+.btn_changes{
+ padding: 5px;
+ width: 100%;
+}
+.example-container {
+  
+    margin: 10px;
+    border: 1px solid #555;
+  }
+
+.contr{
+  display: table;
+}
+.spn{
+display: table-cell;
+}
+.label{
+  display: table-cell;
+}
